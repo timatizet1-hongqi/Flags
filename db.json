@@ -1,0 +1,88 @@
+{
+    "flags": [
+        {
+            "name": "Germany",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xYxX7OPGZWvgLYSW5jE_TRCZ6kmO1qyZJGMcFoMCfw&s"
+        },
+        {
+            "name": "USA",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg/250px-Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+        },
+        {
+            "name": "Brazil",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+        },
+        {
+            "name": "Iceland",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1280px-Flag_of_Iceland.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        },
+        {
+            "name": "Afghanistan",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Flag_of_Afghanistan_%282004%E2%80%932021%2C_variant%29.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+        {
+            "name": "Åland Islands",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_%C3%85land.svg/1280px-Flag_of_%C3%85land.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+        },
+        {
+            "name": "Albania",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+        {
+            "name": "Algeria",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/3840px-Flag_of_Algeria.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        },
+        {
+            "name": "Uruguay",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+        },
+        {
+            "name": "Finland",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqph2YQUzB_ulgXBc8J18pfk4RPbYl9I49IOSdgO4liw&s=10"
+        },
+        {
+            "name": "Canada",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1280px-Flag_of_Canada_%28Pantone%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+        },
+        {
+            "name": "Ghana",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkI_C4SqyDzlRp6y--xTUkubP4fHimQCqSvRgVHmu3Q&s"
+        },
+        {
+            "name": "Peru",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Peru_%281884%E2%80%931950%29.svg/960px-Flag_of_Peru_%281884%E2%80%931950%29.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+        },
+        {
+            "name": "Kenya",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+        {
+            "name": "Botswana",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1280px-Flag_of_Botswana.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+        },
+        {
+            "name": "Norway",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGa8QO_YYm_GqXI5oPp7GyJ2c1VI4Gl_3J0RY11exFIg&s=10"
+        },
+        {
+            "name": "Morocco",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/3840px-Flag_of_Morocco.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        },
+        {
+            "name": "Chile",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+        },
+        {
+            "name": "Estonia",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/3840px-Flag_of_Estonia.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        },
+        {
+            "name": "Thailand",
+            "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/3840px-Flag_of_Thailand.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        },
+        {
+            "name": "Uzbekistan",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfRKONxXI3Yk5ohhJ8UdwYTvFoRcXyI2u64d1JDnMkWhobdDKdW5aWBQ&s=10"
+        }
+    ]
+}
